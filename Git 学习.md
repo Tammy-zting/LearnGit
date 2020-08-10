@@ -1,5 +1,3 @@
-[toc]
-
 # Git 学习
 
 ## config
